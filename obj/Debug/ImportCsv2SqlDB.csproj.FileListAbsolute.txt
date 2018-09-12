@@ -1,0 +1,7 @@
+C:\Projects\ImportCsv2SqlDB\bin\Debug\ImportCsv2SqlDB.exe.config
+C:\Projects\ImportCsv2SqlDB\bin\Debug\ImportCsv2SqlDB.exe
+C:\Projects\ImportCsv2SqlDB\bin\Debug\ImportCsv2SqlDB.pdb
+C:\Projects\ImportCsv2SqlDB\obj\Debug\ImportCsv2SqlDB.csproj.ResolveComReference.cache
+C:\Projects\ImportCsv2SqlDB\obj\Debug\ImportCsv2SqlDB.csproj.CoreCompileInputs.cache
+C:\Projects\ImportCsv2SqlDB\obj\Debug\ImportCsv2SqlDB.exe
+C:\Projects\ImportCsv2SqlDB\obj\Debug\ImportCsv2SqlDB.pdb

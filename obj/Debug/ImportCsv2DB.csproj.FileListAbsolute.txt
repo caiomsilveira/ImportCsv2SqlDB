@@ -1,0 +1,8 @@
+C:\Genius\Source\TVO_2\TVO\ImportCsv2DB\bin\Debug\ImportCsv2DB.exe.config
+C:\Genius\Source\TVO_2\TVO\ImportCsv2DB\bin\Debug\ImportCsv2DB.exe
+C:\Genius\Source\TVO_2\TVO\ImportCsv2DB\bin\Debug\ImportCsv2DB.pdb
+C:\Genius\Source\TVO_2\TVO\ImportCsv2DB\obj\Debug\ImportCsv2DB.csproj.ResolveComReference.cache
+C:\Genius\Source\TVO_2\TVO\ImportCsv2DB\obj\Debug\ImportCsv2DB.csproj.CoreCompileInputs.cache
+C:\Genius\Source\TVO_2\TVO\ImportCsv2DB\obj\Debug\ImportCsv2DB.exe
+C:\Genius\Source\TVO_2\TVO\ImportCsv2DB\obj\Debug\ImportCsv2DB.pdb
+C:\Genius\Source\TVO_2\TVO\ImportCsv2DB\obj\Debug\ImportCsv2DB.csprojResolveAssemblyReference.cache
